@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I am @Basit-Aly
+I am interetd in Data Science, Machine Learning and Mathematics. 
 
-<!--
-**Basit-Aly/Basit-Aly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently doing Masters in Data Science
+- 🌱 I’m currently learning Machine Learning, Big Data Analytics Warehousing, PowerBI 
+- 👯 I’m looking to collaborate on Data Science and ML projects
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Email](basit53.ali@gmail.com)
+[LinkedIn](www.linkedin.com/in/basit-ali-35412329b)
+
+
+
