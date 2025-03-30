@@ -1,5 +1,5 @@
 ## Hi there 👋 I am @Basit-Aly
-I am interetd in Data Science, Machine Learning and Mathematics. 
+I am intereted in Data Science, Machine Learning and Mathematics. 
 
 - 🔭 I’m currently doing Masters in Data Science
 - 🌱 I’m currently learning Machine Learning, Big Data Analytics and Warehousing, Mathematics for Data Science, and PowerBI 
